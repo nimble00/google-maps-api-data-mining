@@ -1,0 +1,198 @@
+1	Kempegowda	Backward Category B	Yelahanka	Chikballapur
+2	Chowdeshwari	Backward Category A (Women)	Yelahanka	Chikballapur
+3	Attur	General (Women)	Yelahanka	Chikballapur
+4	Yelahanka Satellite Town	Backward Category A	Yelahanka	Chikballapur
+5	Jakkur	General	Byatarayanapura	Bangalore North
+6	Thanisandra	Backward Category A (Women)	Byatarayanapura	Bangalore North
+7	Byatarayanapura	Scheduled Tribe	Byatarayanapura	Bangalore North
+8	Kodigehalli	Backward Category B	Byatarayanapura	Bangalore North
+9	Vidyaranyapura	General (Women)	Byatarayanapura	Bangalore North
+10	Doddabommasandra	General	Byatarayanapura	Bangalore North
+11	Kuvempu Nagar	Backward Category A (Women)	Byatarayanapura	Bangalore North
+12	Shettyhalli	Scheduled Caste (Women)	Dasarahalli	Bangalore North
+13	Mallasandra	Backward Category A (Women)	Dasarahalli	Bangalore North
+14	Bagalagunte	General	Dasarahalli	Bangalore North
+15	T-Dasarahalli	General (Women)	Dasarahalli	Bangalore North
+16	Jalahalli	Scheduled Caste	Rajarajeshwarinagar	Bangalore Rural
+17	J.P.Park	General	Rajarajeshwarinagar	Bangalore Rural
+18	Radhakrishna Temple	Backward Category A	Hebbal	Bangalore North
+19	Sanjay Nagar	Backward Category B	Hebbal	Bangalore North
+20	Ganga Nagar	General	Hebbal	Bangalore North
+21	Hebbal	General	Hebbal	Bangalore North
+22	Vishwanathnagenahalli	Backward Category B	Hebbal	Bangalore North
+23	Nagavara	General (Women)	Sarvagnanagar	Bangalore Central
+24	HBR Layout	Backward Category A	Sarvagnanagar	Bangalore Central
+25	Horamavu	General (Women)	Krishnarajapuram	Bangalore North
+26	Ramamurthy Nagar	Backward Category A	Krishnarajapuram	Bangalore North
+27	Banaswadi	General	Sarvagnanagar	Bangalore Central
+28	Kammanahalli	General	Sarvagnanagar	Bangalore Central
+29	Kacharakanahalli	General	Sarvagnanagar	Bangalore Central
+30	Kadugondanahalli	General (Women)	Sarvagnanagar	Bangalore Central
+31	Kushal Nagar	General (Women)	Pulakeshinagar	Bangalore North
+32	Kavalbyrasandra	General	Pulakeshinagar	Bangalore North
+33	Manorayanapalya	Backward Category A (Women)	Hebbal	Bangalore North
+34	Gangenahalli	General	Hebbal	Bangalore North
+35	Aramane Nagar	General	Malleshwaram	Bangalore North
+36	Mathikere	General	Malleshwaram	Bangalore North
+37	Yeshwanthpur	General	Rajarajeshwarinagar	Bangalore Rural
+38	H.M.T	General (Women)	Rajarajeshwarinagar	Bangalore Rural
+39	Chokkasandra	Backward Category A	Dasarahalli	Bangalore North
+40	Dodda Bidarkallu	General (Women)	Yeshwanthpur	Bangalore North
+41	Peenya Industrial Area	General	Dasarahalli	Bangalore North
+42	Lakshmidevi Nagar	Backward Category A	Rajarajeshwarinagar	Bangalore Rural
+43	Nandini Layout	Backward Category A	Mahalakshmi Layout	Bangalore North
+44	Marappana Palya	General (Women)	Mahalakshmi Layout	Bangalore North
+45	Malleshwaram	Backward Category A	Malleshwaram	Bangalore North
+46	Jayachamarajendra Nagar	General	Hebbal	Bangalore North
+47	Devarajeevanahalli	Scheduled Caste	Pulakeshinagar	Bangalore North
+48	Muneshwara Nagar	Scheduled Caste	Pulakeshinagar	Bangalore North
+49	Lingarajapuram	General (Women)	Sarvagnanagar	Bangalore Central
+50	Benniganahalli	Scheduled Caste	CV Raman Nagar	Bangalore Central
+51	Vijanapura	Scheduled Caste	Krishnarajapuram	Bangalore North
+52	K.R.Puram	General	Krishnarajapuram	Bangalore North
+53	Basavanapura	General	Krishnarajapuram	Bangalore North
+54	Hoodi	Backward Category A	Mahadevapura	Bangalore Central
+55	Devasandra	Backward Category B	Krishnarajapuram	Bangalore North
+56	A.Narayanapura	Backward Category A	Krishnarajapuram	Bangalore North
+57	C.V.Raman Nagar	Backward Category A	CV Raman Nagar	Bangalore Central
+58	Hosathippasandra	General (Women)	CV Raman Nagar	Bangalore Central
+59	Maruthiseva Nagar	Scheduled Caste	Sarvagnanagar	Bangalore Central
+60	Sagayapuram	Scheduled Caste	Pulakeshinagar	Bangalore North
+61	S.K.Garden	Scheduled Caste	Pulakeshinagar	Bangalore North
+62	Ramaswamy Palya	Scheduled Caste	Shivajinagar	Bangalore Central
+63	Jayamahal	General	Shivajinagar	Bangalore Central
+64	Rajamahal	General (Women)	Malleshwaram	Bangalore North
+65	Kadumalleshwara	Backward Category A	Malleshwaram	Bangalore North
+66	Subramanya Nagar	General (Women)	Malleshwaram	Bangalore North
+67	Nagapura	Backward Category A	Mahalakshmi Layout	Bangalore North
+68	Mahalakshmipuram	Backward Category B	Mahalakshmi Layout	Bangalore North
+69	Laggere	General	Rajarajeshwarinagar	Bangalore Rural
+70	Rajagopala Nagar	General	Dasarahalli	Bangalore North
+71	Hegganahalli	General	Dasarahalli	Bangalore North
+72	Herohalli	Backward Category B	Yeshwanthpur	Bangalore North
+73	Kottigepalya	General	Rajarajeshwarinagar	Bangalore Rural
+74	Shakthiganapathi Nagar	General (Women)	Mahalakshmi Layout	Bangalore North
+75	Shankaramata	General	Mahalakshmi Layout	Bangalore North
+76	Gayathri Nagar	General (Women)	Malleshwaram	Bangalore North
+77	Dattathreya Temple	General	Gandhinagar	Bangalore Central
+78	Pulikeshi Nagar	General	Pulakeshinagar	Bangalore North
+79	Sarvagna Nagar	Scheduled Caste	CV Raman Nagar	Bangalore Central
+80	Hoysala Nagar	Scheduled Caste	CV Raman Nagar	Bangalore Central
+81	Vignana Nagar	General (Women)	Krishnarajapuram	Bangalore North
+82	Garudacharpalya	General	Mahadevapura	Bangalore Central
+83	Kadugudi	General	Mahadevapura	Bangalore Central
+84	Hagadooru	Backward Category B	Mahadevapura	Bangalore Central
+85	Doddanekkundi	General	Mahadevapura	Bangalore Central
+86	Marathalli	Backward Category A (Women)	Mahadevapura	Bangalore Central
+87	HAL Airport	General	Krishnarajapuram	Bangalore North
+88	Jeevanbhima Nagar	Scheduled Caste	CV Raman Nagar	Bangalore Central
+89	Jogupalya	General	Shanthinagar	Bangalore Central
+90	Ulsoor	Scheduled Caste	Shivajinagar	Bangalore Central
+91	Bharathi Nagar	General	Shivajinagar	Bangalore Central
+92	Shivaji Nagar	General (Women)	Shivajinagar	Bangalore Central
+93	Vasanth Nagar	General	Shivajinagar	Bangalore Central
+94	Gandhi Nagar	General	Gandhinagar	Bangalore Central
+95	Subhash Nagar	Scheduled Caste	Gandhinagar	Bangalore Central
+96	Okalipuram	Scheduled Caste	Gandhinagar	Bangalore Central
+97	Dayananda Nagar	Scheduled Caste	Rajajinagar	Bangalore Central
+98	Prakash Nagar	General	Rajajinagar	Bangalore Central
+99	Rajaji Nagar	Backward Category A	Rajajinagar	Bangalore Central
+100	Basaveshwara Nagar	Backward Category A	Rajajinagar	Bangalore Central
+101	Kamakshipalya	General	Rajajinagar	Bangalore Central
+102	Vrushabhavathi	Backward Category A (Women)	Mahalakshmi Layout	Bangalore North
+103	Kaveripura	General	Govindarajnagara	Bangalore South
+104	Govindraja Nagara	Backward Category A	Govindarajnagara	Bangalore South
+105	Agrahara Dasarahalli	Backward Category A (Women)	Govindarajnagara	Bangalore South
+106	Dr.Rajkumar Ward	General	Govindarajnagara	Bangalore South
+107	Shiva Nagar	General	Rajajinagar	Bangalore Central
+108	Sri Rammandira	Backward Category A (Women)	Rajajinagar	Bangalore Central
+109	Chickpete	General	Gandhinagar	Bangalore Central
+110	Sampangiram Nagar	Backward Category A	Shivajinagar	Bangalore Central
+111	Shanthala Nagar	Backward Category A	Shanthinagar	Bangalore Central
+112	Domlur	General (Women)	Shanthinagar	Bangalore Central
+113	Konena Agrahara	General	CV Raman Nagar	Bangalore Central
+114	Agaram	Scheduled Caste	Shanthinagar	Bangalore Central
+115	Vannarpet	Scheduled Caste	Shanthinagar	Bangalore Central
+116	Neelasandra	Scheduled Tribe	Shanthinagar	Bangalore Central
+117	Shanthi Nagar	General (Women)	Shanthinagar	Bangalore Central
+118	Sudam Nagar	Scheduled Caste	Chickpet	Bangalore South
+119	Dharmarayaswamy Temple Ward	Backward Category A	Chickpet	Bangalore South
+120	Cottonpet	Backward Category A (Women)	Gandhinagar	Bangalore Central
+121	Binnipet	Backward Category A (Women)	Gandhinagar	Bangalore Central
+122	Kempapura Agrahara	Backward Category A (Women)	Vijayanagar	Bangalore South
+123	Vijay Nagar	General	Vijayanagar	Bangalore South
+124	Hosahalli	Backward Category A	Vijayanagar	Bangalore South
+125	Marenahalli	Backward Category A (Women)	Govindarajnagara	Bangalore South
+126	Maruthi Mandira Ward	General	Govindarajnagara	Bangalore South
+127	Moodalapalya	Backward Category A (Women)	Govindarajnagara	Bangalore South
+128	Nagarabhavi	General	Govindarajnagara	Bangalore South
+129	Jnanabharathi Ward	Backward Category B	Rajarajeshwarinagar	Bangalore Rural
+130	Ullalu	Backward Category A	Yeshwanthpur	Bangalore North
+131	Nayandanahalli	General (Women)	Govindarajnagara	Bangalore South
+132	Attiguppe	General	Vijayanagar	Bangalore South
+133	Hampi Nagar	General	Vijayanagar	Bangalore South
+134	Bapuji Nagar	Backward Category A	Vijayanagar	Bangalore South
+135	Padarayanapura	General (Women)	Chamrajpet	Bangalore Central
+136	Jagareevanram Nagar	General (Women)	Chamrajpet	Bangalore Central
+137	Rayapuram	Scheduled Caste	Chamrajpet	Bangalore Central
+138	Chalavadipalya	Scheduled Caste	Chamrajpet	Bangalore Central
+139	K.R.Market	Scheduled Caste	Chamrajpet	Bangalore Central
+140	Chamrajpet	Backward Category A	Chamrajpet	Bangalore Central
+141	Azad Nagar	General (Women)	Chamrajpet	Bangalore Central
+142	Sunkenahalli	General	Chickpet	Bangalore South
+143	Visvesvarapuram	General	Chickpet	Bangalore South
+144	Siddapura	General	Chickpet	Bangalore South
+145	Hombegowda Nagar	General	Chickpet	Bangalore South
+146	Lakkasandra	General	B.T.M Layout	Bangalore South
+147	Adugodi	General	B.T.M Layout	Bangalore South
+148	Ejipura	General (Women)	B.T.M Layout	Bangalore South
+149	Varthur	General	Mahadevapura	Bangalore Central
+150	Bellandur	Backward Category B	Mahadevapura	Bangalore Central
+151	Koramangala	Backward Category A (Women)	B.T.M Layout	Bangalore South
+152	Sudduguntepalya	General	B.T.M Layout	Bangalore South
+153	Jayangar	General (Women)	Chickpet	Bangalore South
+154	Basavanagudi	General	Basavanagudi	Bangalore South
+155	Hanumantha Nagar	General	Basavanagudi	Bangalore South
+156	Sri Nagar	General	Basavanagudi	Bangalore South
+157	Gali Anjaneya Swamy Temple Ward	General	Vijayanagar	Bangalore South
+158	Deepanjali Nagar	Backward Category A (Women)	Vijayanagar	Bangalore South
+159	Kengeri	General	Yeshwanthpur	Bangalore North
+160	Rajarajeshwari Nagar	General	Rajarajeshwarinagar	Bangalore Rural
+161	Hosakerehalli	General	Padmanabhanagar	Bangalore South
+162	Giri Nagar	General (Women)	Basavanagudi	Bangalore South
+163	Katriguppe	Backward Category A	Basavanagudi	Bangalore South
+164	Vidyapeetha	Backward Category A	Basavanagudi	Bangalore South
+165	Ganeshmandira Ward	Backward Category A	Padmanabhanagar	Bangalore South
+166	Karisandra	General (Women)	Padmanabhanagar	Bangalore South
+167	Yadiyuru	Backward Category A	Padmanabhanagar	Bangalore South
+168	Pattabhiram Nagar	General	Jayanagar	Bangalore South
+169	Byrasandra	Backward Category A	Jayanagar	Bangalore South
+170	Jayanagar East	Backward Category A	Jayanagar	Bangalore South
+171	Gurappanapalya	General	Jayanagar	Bangalore South
+172	Madiwala	General	B.T.M Layout	Bangalore South
+173	Jakkasandra	General (Women)	B.T.M Layout	Bangalore South
+174	HSR Layout	General (Women)	Bommanahalli	Bangalore South
+175	Bommanahalli	General	Bommanahalli	Bangalore South
+176	BTM Layout	General	B.T.M Layout	Bangalore South
+177	J.P.Nagar	Backward Category A	Jayanagar	Bangalore South
+178	Sarakki	General	Jayanagar	Bangalore South
+179	Shakambari Nagar	Backward Category A	Jayanagar	Bangalore South
+180	Banashankari Temple Ward	General	Padmanabhanagar	Bangalore South
+181	Kumaraswamy Layout	Backward Category A	Padmanabhanagar	Bangalore South
+182	Padmanabha Nagar	General	Padmanabhanagar	Bangalore South
+183	Chikkalasandra	General	Padmanabhanagar	Bangalore South
+184	Uttarahalli	Backward Category A	Bangalore South	Bangalore Rural
+185	Yelachenahalli	Backward Category A	Bangalore South	Bangalore Rural
+186	Jaraganahalli	General (Women)	Bommanahalli	Bangalore South
+187	Puttenahalli	Backward Category A	Bommanahalli	Bangalore South
+188	Bilekahalli	General (Women)	Bommanahalli	Bangalore South
+189	Hongasandra	Backward Category B	Bommanahalli	Bangalore South
+190	Mangammanapalya	Backward Category A (Women)	Bommanahalli	Bangalore South
+191	Singasandra	General (Women)	Bangalore South	Bangalore Rural
+192	Begur	Backward Category B	Bangalore South	Bangalore Rural
+193	Arakere	General	Bommanahalli	Bangalore South
+194	Gottigere	Backward Category B	Bangalore South	Bangalore Rural
+195	Konanakunte	General (Women)	Bangalore South	Bangalore Rural
+196	Anjanapur	General	Bangalore South	Bangalore Rural
+197	Vasanthapura	General (Women)	Bangalore South	Bangalore Rural
+198	Hemmigepura	Backward Category A (Women)	Yeshwanthpur	Bangalore North
