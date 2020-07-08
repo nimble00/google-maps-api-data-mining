@@ -20,3 +20,6 @@ for i in range(100,1000):
 		# 'x' is there in the headline or not.
 	print(i)
 file.close()
+
+# If you haven't used 'requests' and 'beautifulsoup' before,
+# google them and read a few examples, that'll be enough. 
