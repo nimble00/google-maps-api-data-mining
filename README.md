@@ -12,3 +12,4 @@ Steps to solve it:
 Done!
 
 Moreover, 'google_search.py' contains the basic data mining everyone should know.
+Also, all the files contain appropriate explanatory commments.
