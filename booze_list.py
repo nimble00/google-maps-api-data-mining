@@ -1,11 +1,12 @@
 # This file uses Google Maps API to find the nearby '"'liquor_stores' given a location(lat, long).
 
+# Various options for search in the Google Maps API:
 # https://maps.googleapis.com/maps/api/place/findplacefromtext/output?parameters
 # https://maps.googleapis.com/maps/api/place/textsearch/output?parameters
-
 # https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=-33.8670522,151.1957362&radius=1500&type=restaurant&keyword=cruise&key=YOUR_API_KEY
 
-google_maps_api_key = "AIzaSyAyd3j-9Ad4o-Bx57Ue0VpzHd2JKkrmJRs"
+# Get your API Key from "https://developers.google.com/places/web-service/get-api-key"
+google_maps_api_key = "YOUR_API_KEY"
 import requests
 import json
 
@@ -13,12 +14,12 @@ ip = open("ward_loc.txt", "r")
 op = open("liquor_stores.txt", "w+")
 # url for nearby search
 url_p = "https://maps.googleapis.com/maps/api/place/nearbysearch/json?location="
-url_s = "&radius=2000&type=liquor_store&key=AIzaSyAyd3j-9Ad4o-Bx57Ue0VpzHd2JKkrmJRs"
+url_s = "&radius=2000&type=liquor_store&key=YOUR_API_KEY"
 # url for place details
 url_pd = "https://maps.googleapis.com/maps/api/place/details/json?place_id="
-url_sd = "&fields=name,rating,formatted_phone_number,international_phone_number,user_ratings_total,vicinity&key=AIzaSyAyd3j-9Ad4o-Bx57Ue0VpzHd2JKkrmJRs"
+url_sd = "&fields=name,rating,formatted_phone_number,international_phone_number,user_ratings_total,vicinity&key=YOUR_API_KEY"
 
-# this set will help us avoid repitition of requeting same place's details
+# this set will help us avoid repitition of requesting same place's details
 place_id_set = set({})
 
 for i in range(165):
